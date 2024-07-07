@@ -15,7 +15,7 @@
 
 **Skills**: Python / NLP/ Generative AI / Computer Vision
 
-- 🔭 I’m currently working on Specializing Large Language Models for Telecom Networks 
+- 🔭 I’m currently working on Specializing Large Language Models for Telecom Networks
 - 💬 Ask me about AI/ML 
 
 
@@ -23,14 +23,8 @@
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mubrij)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mubrij)  
 
-
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mubrij)  
 
 
 
