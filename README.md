@@ -15,13 +15,15 @@
 
 **Skills**: Python / NLP/ Generative AI / Computer Vision
 
-- 🔭 I’m currently working on Specializing Large Language Models for Telecom Networks
+- 🔭 I’m currently working on Specializing Large Language Models for Telecom Networks 
 - 💬 Ask me about AI/ML 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mubrij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://muhd-mubarak.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mubarak6211/)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mubrij)  
 
