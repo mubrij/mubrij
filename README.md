@@ -14,6 +14,5 @@ I'm Mubarak Muhammad Tukur, a Machine Learning Engineer with 3 years of experien
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mubrij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://muhd-mubarak.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mubarak6211/)  
 
-
-[![mubarak127 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubarak&show_icons=true&theme=radical)](https://github.com/muabrak127/github-readme-stats)
+[![mubarak GitHub stats](https://github-readme-stats.vercel.app/api?username=mubarak&show_icons=true&theme=radical)](https://github.com/mubarak/github-readme-stats)
 
