@@ -1,8 +1,8 @@
 - Hi there 👋
 I'm Mubarak Muhammad Tukur, a Machine Learning Engineer with 3 years of experience, specializing in Natural Language Processing (NLP), Computer Vision (CV), and Generative Models. Skilled in applying ML and DL techniques to solve real-world problems.
-- 🌱 Ranked 4th in Nigeria and 9th in Africa among over 75,000 data scientists on https://zindi.africa/competitions
+- 🌱 Ranked 4th in Nigeria and 9th in Africa among over 75,000 data scientists on [https://zindi.africa/competitions](https://zindi.africa/competitions)
 - 🔬I have worked on problems in domains such as in Natural Language Processing, Computer Vision and Timeseries and delivered great solutions.
-- 🏆For more work I have done, you can check my certificate here: https://zindi.africa/users/mubarak127/competitions/certificate
+- 🏆For more work I have done, you can check my certificate here: [https://zindi.africa/users/mubarak127/competitions/certificate](https://zindi.africa/users/ML_Wizzard/competitions/certificate)
 - ⚡ Open to work and collaboration, previously collaborated with Adbot Ad Engagement Forecasting Challenge in writing technical reports.
 - 👨‍💻 All of my projects are available at https://musa-muhammad.netlify.app/
 - 🔬 You can contact me through email: 📧 musamuhammadtukur127@gmail.com
